@@ -1,0 +1,180 @@
+DEBUG, 2024-08-22 16:36:11,250, [executor-thread-33hread], PoolThreadCache:free:214, , Freed 1 thread-local buffer(s) from thread: executor-thread-33
+DEBUG, 2024-08-22 16:36:11,281, [executor-thread-21hread], PoolThreadCache:free:214, , Freed 2 thread-local buffer(s) from thread: executor-thread-21
+DEBUG, 2024-08-22 16:36:11,297, [executor-thread-1hread], PoolThreadCache:free:214, , Freed 3 thread-local buffer(s) from thread: executor-thread-1
+DEBUG, 2024-08-22 16:36:26,684, [executor-thread-36hread], PoolThreadCache:free:214, , Freed 2 thread-local buffer(s) from thread: executor-thread-36
+DEBUG, 2024-08-22 16:36:26,713, [executor-thread-26hread], PoolThreadCache:free:214, , Freed 2 thread-local buffer(s) from thread: executor-thread-26
+DEBUG, 2024-08-22 16:36:29,780, [executor-thread-24hread], PoolThreadCache:free:214, , Freed 2 thread-local buffer(s) from thread: executor-thread-24
+DEBUG, 2024-08-22 16:36:29,790, [executor-thread-35hread], PoolThreadCache:free:214, , Freed 1 thread-local buffer(s) from thread: executor-thread-35
+DEBUG, 2024-08-22 16:36:30,587, [executor-thread-5hread], PoolThreadCache:free:214, , Freed 2 thread-local buffer(s) from thread: executor-thread-5
+DEBUG, 2024-08-22 16:36:30,671, [executor-thread-13hread], PoolThreadCache:free:214, , Freed 2 thread-local buffer(s) from thread: executor-thread-13
+DEBUG, 2024-08-22 16:36:30,833, [executor-thread-32hread], PoolThreadCache:free:214, , Freed 1 thread-local buffer(s) from thread: executor-thread-32
+DEBUG, 2024-08-22 16:36:31,710, [executor-thread-15hread], PoolThreadCache:free:214, , Freed 2 thread-local buffer(s) from thread: executor-thread-15
+DEBUG, 2024-08-22 16:36:31,989, [executor-thread-31hread], PoolThreadCache:free:214, , Freed 1 thread-local buffer(s) from thread: executor-thread-31
+DEBUG, 2024-08-22 16:36:32,025, [executor-thread-34hread], PoolThreadCache:free:214, , Freed 1 thread-local buffer(s) from thread: executor-thread-34
+DEBUG, 2024-08-22 16:36:32,025, [executor-thread-29hread], PoolThreadCache:free:214, , Freed 1 thread-local buffer(s) from thread: executor-thread-29
+DEBUG, 2024-08-22 16:36:32,082, [executor-thread-16hread], PoolThreadCache:free:214, , Freed 1 thread-local buffer(s) from thread: executor-thread-16
+DEBUG, 2024-08-22 16:36:32,093, [executor-thread-37hread], PoolThreadCache:free:214, , Freed 1 thread-local buffer(s) from thread: executor-thread-37
+DEBUG, 2024-08-22 16:36:32,098, [executor-thread-38hread], PoolThreadCache:free:214, , Freed 1 thread-local buffer(s) from thread: executor-thread-38
+DEBUG, 2024-08-22 16:36:32,099, [executor-thread-25hread], PoolThreadCache:free:214, , Freed 2 thread-local buffer(s) from thread: executor-thread-25
+DEBUG, 2024-08-22 16:36:32,112, [executor-thread-18hread], PoolThreadCache:free:214, , Freed 2 thread-local buffer(s) from thread: executor-thread-18
+INFO, 2024-08-22 19:24:05,471, [vert.x-eventloop-thread-1hread], ApiInterceptor:requestFilter:95, , Inicia Llamado [/api/public/v1/security/parameters]
+INFO, 2024-08-22 19:24:05,472, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [accept : [*/*]]
+INFO, 2024-08-22 19:24:05,472, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [accept-encoding : [gzip, deflate, br]]
+INFO, 2024-08-22 19:24:05,472, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [Host : [internal-k8s-jenkinst-msamgdse-0b0cbdd79b-2099457716.us-east-1.elb.amazonaws.com]]
+INFO, 2024-08-22 19:24:05,473, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [postman-token : [a42a1728-d8e4-4189-bcd2-8e08d18c61d4]]
+INFO, 2024-08-22 19:24:05,473, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [user-agent : [PostmanRuntime/7.41.2]]
+INFO, 2024-08-22 19:24:05,473, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [via : [1.1 google, 1.1 google]]
+INFO, 2024-08-22 19:24:05,473, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [X-Amzn-Trace-Id : [Root=1-66c7e4b5-26f546533880af9549c55f2d]]
+INFO, 2024-08-22 19:24:05,473, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [x-b3-sampled : [0]]
+INFO, 2024-08-22 19:24:05,473, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [x-b3-spanid : [dcd11f67e5783e79]]
+INFO, 2024-08-22 19:24:05,473, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [x-b3-traceid : [5b6a4819052b03b1dcd11f67e5783e79]]
+INFO, 2024-08-22 19:24:05,473, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [x-cloud-trace-context : [d1300ddb09a80b9bc5f3f9329e691263/357352354604977264]]
+INFO, 2024-08-22 19:24:05,474, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [x-envoy-attempt-count : [1]]
+INFO, 2024-08-22 19:24:05,474, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [x-envoy-expected-rq-timeout-ms : [30000]]
+INFO, 2024-08-22 19:24:05,474, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [x-envoy-original-path : [/envoy/eks-jenkins/api/public/v1/security/parameters]]
+INFO, 2024-08-22 19:24:05,474, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [X-Forwarded-For : [189.188.227.181,34.120.93.135,10.77.77.209,10.77.72.122,10.77.77.36, 10.77.77.2]]
+INFO, 2024-08-22 19:24:05,474, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [X-Forwarded-Port : [80]]
+INFO, 2024-08-22 19:24:05,474, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [X-Forwarded-Proto : [http]]
+INFO, 2024-08-22 19:24:05,474, [vert.x-eventloop-thread-1hread], ApiInterceptor:lambda$requestFilter$0:100, , [x-request-id : [66f35b97-869b-4b09-a40c-4c753cceb8d9]]
+DEBUG, 2024-08-22 19:24:05,478, [vert.x-eventloop-thread-1hread], AbstractResteasyReactiveContext:handleException:333, , Restarting handler chain for exception exception: jakarta.ws.rs.NotFoundException: Unable to find matching target resource method
+	at org.jboss.resteasy.reactive.server.handlers.ClassRoutingHandler.throwNotFound(ClassRoutingHandler.java:239)
+	at org.jboss.resteasy.reactive.server.handlers.ClassRoutingHandler.handle(ClassRoutingHandler.java:77)
+	at io.quarkus.resteasy.reactive.server.runtime.QuarkusResteasyReactiveRequestContext.invokeHandler(QuarkusResteasyReactiveRequestContext.java:123)
+	at org.jboss.resteasy.reactive.common.core.AbstractResteasyReactiveContext.run(AbstractResteasyReactiveContext.java:147)
+	at org.jboss.resteasy.reactive.server.handlers.RestInitialHandler.beginProcessing(RestInitialHandler.java:48)
+	at org.jboss.resteasy.reactive.server.vertx.ResteasyReactiveVertxHandler.handle(ResteasyReactiveVertxHandler.java:23)
+	at org.jboss.resteasy.reactive.server.vertx.ResteasyReactiveVertxHandler.handle(ResteasyReactiveVertxHandler.java:10)
+	at io.vertx.ext.web.impl.RouteState.handleContext(RouteState.java:1285)
+	at io.vertx.ext.web.impl.RoutingContextImplBase.iterateNext(RoutingContextImplBase.java:177)
+	at io.vertx.ext.web.impl.RoutingContextImpl.next(RoutingContextImpl.java:137)
+	at io.quarkus.vertx.http.runtime.options.HttpServerCommonHandlers$1.handle(HttpServerCommonHandlers.java:62)
+	at io.quarkus.vertx.http.runtime.options.HttpServerCommonHandlers$1.handle(HttpServerCommonHandlers.java:40)
+	at io.vertx.ext.web.impl.RouteState.handleContext(RouteState.java:1285)
+	at io.vertx.ext.web.impl.RoutingContextImplBase.iterateNext(RoutingContextImplBase.java:177)
+	at io.vertx.ext.web.impl.RoutingContextImpl.next(RoutingContextImpl.java:137)
+	at io.quarkus.resteasy.reactive.server.runtime.ResteasyReactiveRecorder$13.handle(ResteasyReactiveRecorder.java:358)
+	at io.quarkus.resteasy.reactive.server.runtime.ResteasyReactiveRecorder$13.handle(ResteasyReactiveRecorder.java:347)
+	at io.vertx.ext.web.impl.RouteState.handleContext(RouteState.java:1285)
+	at io.vertx.ext.web.impl.RoutingContextImplBase.iterateNext(RoutingContextImplBase.java:177)
+	at io.vertx.ext.web.impl.RoutingContextImpl.next(RoutingContextImpl.java:137)
+	at io.vertx.ext.web.impl.RouterImpl.handle(RouterImpl.java:68)
+	at io.vertx.ext.web.impl.RouterImpl.handle(RouterImpl.java:37)
+	at io.quarkus.vertx.http.runtime.options.HttpServerCommonHandlers$2.handle(HttpServerCommonHandlers.java:86)
+	at io.quarkus.vertx.http.runtime.options.HttpServerCommonHandlers$2.handle(HttpServerCommonHandlers.java:69)
+	at io.quarkus.vertx.http.runtime.VertxHttpRecorder$1.handle(VertxHttpRecorder.java:173)
+	at io.quarkus.vertx.http.runtime.VertxHttpRecorder$1.handle(VertxHttpRecorder.java:149)
+	at io.vertx.core.impl.ContextImpl.emit(ContextImpl.java:328)
+	at io.vertx.core.impl.DuplicatedContext.emit(DuplicatedContext.java:166)
+	at io.vertx.core.http.impl.Http1xServerConnection.handleMessage(Http1xServerConnection.java:174)
+	at io.vertx.core.net.impl.ConnectionBase.read(ConnectionBase.java:159)
+	at io.vertx.core.net.impl.VertxHandler.channelRead(VertxHandler.java:153)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.vertx.core.http.impl.Http1xUpgradeToH2CHandler.channelRead(Http1xUpgradeToH2CHandler.java:124)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.vertx.core.http.impl.Http1xOrH2CHandler.end(Http1xOrH2CHandler.java:61)
+	at io.vertx.core.http.impl.Http1xOrH2CHandler.channelRead(Http1xOrH2CHandler.java:38)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:166)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+: jakarta.ws.rs.NotFoundException: Unable to find matching target resource method
+	at org.jboss.resteasy.reactive.server.handlers.ClassRoutingHandler.throwNotFound(ClassRoutingHandler.java:239)
+	at org.jboss.resteasy.reactive.server.handlers.ClassRoutingHandler.handle(ClassRoutingHandler.java:77)
+	at io.quarkus.resteasy.reactive.server.runtime.QuarkusResteasyReactiveRequestContext.invokeHandler(QuarkusResteasyReactiveRequestContext.java:123)
+	at org.jboss.resteasy.reactive.common.core.AbstractResteasyReactiveContext.run(AbstractResteasyReactiveContext.java:147)
+	at org.jboss.resteasy.reactive.server.handlers.RestInitialHandler.beginProcessing(RestInitialHandler.java:48)
+	at org.jboss.resteasy.reactive.server.vertx.ResteasyReactiveVertxHandler.handle(ResteasyReactiveVertxHandler.java:23)
+	at org.jboss.resteasy.reactive.server.vertx.ResteasyReactiveVertxHandler.handle(ResteasyReactiveVertxHandler.java:10)
+	at io.vertx.ext.web.impl.RouteState.handleContext(RouteState.java:1285)
+	at io.vertx.ext.web.impl.RoutingContextImplBase.iterateNext(RoutingContextImplBase.java:177)
+	at io.vertx.ext.web.impl.RoutingContextImpl.next(RoutingContextImpl.java:137)
+	at io.quarkus.vertx.http.runtime.options.HttpServerCommonHandlers$1.handle(HttpServerCommonHandlers.java:62)
+	at io.quarkus.vertx.http.runtime.options.HttpServerCommonHandlers$1.handle(HttpServerCommonHandlers.java:40)
+	at io.vertx.ext.web.impl.RouteState.handleContext(RouteState.java:1285)
+	at io.vertx.ext.web.impl.RoutingContextImplBase.iterateNext(RoutingContextImplBase.java:177)
+	at io.vertx.ext.web.impl.RoutingContextImpl.next(RoutingContextImpl.java:137)
+	at io.quarkus.resteasy.reactive.server.runtime.ResteasyReactiveRecorder$13.handle(ResteasyReactiveRecorder.java:358)
+	at io.quarkus.resteasy.reactive.server.runtime.ResteasyReactiveRecorder$13.handle(ResteasyReactiveRecorder.java:347)
+	at io.vertx.ext.web.impl.RouteState.handleContext(RouteState.java:1285)
+	at io.vertx.ext.web.impl.RoutingContextImplBase.iterateNext(RoutingContextImplBase.java:177)
+	at io.vertx.ext.web.impl.RoutingContextImpl.next(RoutingContextImpl.java:137)
+	at io.vertx.ext.web.impl.RouterImpl.handle(RouterImpl.java:68)
+	at io.vertx.ext.web.impl.RouterImpl.handle(RouterImpl.java:37)
+	at io.quarkus.vertx.http.runtime.options.HttpServerCommonHandlers$2.handle(HttpServerCommonHandlers.java:86)
+	at io.quarkus.vertx.http.runtime.options.HttpServerCommonHandlers$2.handle(HttpServerCommonHandlers.java:69)
+	at io.quarkus.vertx.http.runtime.VertxHttpRecorder$1.handle(VertxHttpRecorder.java:173)
+	at io.quarkus.vertx.http.runtime.VertxHttpRecorder$1.handle(VertxHttpRecorder.java:149)
+	at io.vertx.core.impl.ContextImpl.emit(ContextImpl.java:328)
+	at io.vertx.core.impl.DuplicatedContext.emit(DuplicatedContext.java:166)
+	at io.vertx.core.http.impl.Http1xServerConnection.handleMessage(Http1xServerConnection.java:174)
+	at io.vertx.core.net.impl.ConnectionBase.read(ConnectionBase.java:159)
+	at io.vertx.core.net.impl.VertxHandler.channelRead(VertxHandler.java:153)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.vertx.core.http.impl.Http1xUpgradeToH2CHandler.channelRead(Http1xUpgradeToH2CHandler.java:124)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.vertx.core.http.impl.Http1xOrH2CHandler.end(Http1xOrH2CHandler.java:61)
+	at io.vertx.core.http.impl.Http1xOrH2CHandler.channelRead(Http1xOrH2CHandler.java:38)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:166)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+INFO, 2024-08-22 19:24:05,532, [vert.x-eventloop-thread-1hread], ApiInterceptor:responseFilter:121, , GET Time elapsed for request/response roundtrip [/api/public/v1/security/parameters], 61, 403
